@@ -1,5 +1,5 @@
 title: 个人主页 #博客标题
-description: 各种记录. #博客描述
+description: 生活丶学习丶发现. #博客描述
 keywords: blog,css,html,php #博客关键字
 author: "TianYichen"
 
@@ -18,7 +18,7 @@ paginate: 5 #同时显示的最大文章数，超过自动分页
 paginate_path: "page:num"
 
 background: https://api.dujin.org/bing/1920.php
-theme_color: 546E7A
+theme_color: CE6C8F
 
 # hydrogen-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
