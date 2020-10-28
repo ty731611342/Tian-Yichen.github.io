@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Billboard
-tagline: Biu~
+title: 主页面
+tagline: 主页面
 ---
 
-<div style="text-align:center">:shit:nothing...</div>
+<div style="text-align:center">:nothing...</div>
 
 [返回主页]({{ site.url }})
