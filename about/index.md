@@ -17,4 +17,3 @@ comments: false
 ## 工作
 *
 
-See a [live version of Moon](http://yichenpbg.com/) hosted on GitHub.
