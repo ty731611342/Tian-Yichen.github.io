@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "For循环嵌套的代码优化思路"
+date:   2020-11-3
+excerpt: "For循环嵌套的代码优化思路"
+project: false
+tag:
+- blog
+- about
+- for
+comments: true
+---
+
+for (int i = 0; i < 1000; i++){
+    for (int j = 0; j < 100; j++){
+        for (int k = 0; k < 10; k++){
+            System.out.println(i+""+j+""+k);
+         }
+    }
+}
